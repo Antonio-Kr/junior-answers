@@ -1,5 +1,5 @@
 1. Какие методы HTTP-запросов вы знаете? 
-# https://zametkinapolyah.ru/servera-i-protokoly/tema-7-opredelenie-metodov-http-http-method-definitions-metody-http-zaprosov.html
+> https://zametkinapolyah.ru/servera-i-protokoly/tema-7-opredelenie-metodov-http-http-method-definitions-metody-http-zaprosov.html
 
 2. Какие версии HTTP-протокола вам известны? 
 # https://www.youtube.com/watch?v=C_QZtajkDf0&ab_channel=letsCode
