@@ -168,3 +168,15 @@ forEach, filter, map, every/some, reduce/reduceRight
 30. Что означает глубокая (deep) и поверхностная (shallow) копия объекта? Как сделать каждую из них?
 
 + [сюда](https://gary5496.github.io/2018/03/javascript-copy-types/ )
+
+31. В чем разница между декларацией функции (function declaration) и функциональным выражением (function expression)?
+
+```
+Основное отличие между ними: функции, объявленные как Function Declaration, создаются интерпретатором до выполнения кода. ... А Function Expression создаются в процессе выполнения выражения, в котором созданы, в данном случае – функция будет создана при операции присваивания sayHi = function
+```
+
++ [сюда](https://webformyself.com/function-declaration-i-function-expression-v-javascript/ )
+
+32. Что такое анонимная функция?
+
++ [сюда](https://medium.com/devschacht/anonymous-functions-in-javascript-ff6b9ba85de0 )
