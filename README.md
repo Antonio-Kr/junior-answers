@@ -172,7 +172,9 @@ forEach, filter, map, every/some, reduce/reduceRight
 31. В чем разница между декларацией функции (function declaration) и функциональным выражением (function expression)?
 
 ```
-Основное отличие между ними: функции, объявленные как Function Declaration, создаются интерпретатором до выполнения кода. ... А Function Expression создаются в процессе выполнения выражения, в котором созданы, в данном случае – функция будет создана при операции присваивания sayHi = function
+Основное отличие между ними: функции, объявленные как Function Declaration, создаются интерпретатором до выполнения кода. 
+А Function Expression создаются в процессе выполнения выражения, в котором созданы, в данном случае – функция будет 
+создана при операции присваивания sayHi = function
 ```
 
 + [сюда](https://webformyself.com/function-declaration-i-function-expression-v-javascript/ )
